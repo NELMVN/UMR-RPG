@@ -17,3 +17,4 @@ This guide was based on this auto-translated map, https://www.epicwar.com/maps/3
 |`-save`|Save your progress.|
 |`-c`|Displays your mining level.|
 |`-pt`|Displays how long you've played.|
+|`-create`|Combines items.|
