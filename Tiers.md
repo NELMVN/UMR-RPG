@@ -21,6 +21,7 @@ Crafting tier scroll has 50% chance to success.
 |<br><ul><li>Spirit magic</li><li>Exchange</li></ul>|>>|Yatogami Tohka|
 |<br><ul><li>Battlefield Dancer</li><li>Exchange</li></ul>|>>|Eleanor|
 |<br><ul><li>Fate the Virgin</li><li>Exchange</li></ul>|>>|Joan of Arc|
+|<br><ul><li>Slime drop</li><li>Melon bread</li><li>Exchange</li></ul>|>>|Flame Haze (Trainee)|
 
 [comment]: <> (|<br><ul><li>AAAAA</li><li>BBBB</li></ul>|>>|CCCCCCCCC|)
 
