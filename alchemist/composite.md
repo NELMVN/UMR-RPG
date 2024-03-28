@@ -1,5 +1,16 @@
 # alchemist's `Composite`
 
+<br>
+
+![enter image description here](https://raw.githubusercontent.com/NELMVN/UMR-RPG/main/alchemist/alchemist's%20composite.png)
+
+<br>
+
+---
+---
+
+<br>
+
 ## Orange recovery potion
 
 > **Description:**
@@ -110,7 +121,7 @@
 
 > **Requirements:**
 > - [tiger's heart]
-> - [Green Ring]
+> - [Green Ring] (#green-ring-level-1)
 
 > **Composite Cost**
 > 0 Gold
